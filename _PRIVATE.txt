@@ -1,0 +1,5 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+!!! PRIVATE !!!
+This file holds access key to Giosg API, replace xxxxxxxxxxxxxxxxxxxxxxxxxx above with access_token.
